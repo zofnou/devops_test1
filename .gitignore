@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/zofnouApi/zofnouApi/bin
+/zofnouApi/zofnouApi/obj/Debug
+/zofnouApi/.vs/zofnouApi/v15
+/zofnouApi/.vs/config
