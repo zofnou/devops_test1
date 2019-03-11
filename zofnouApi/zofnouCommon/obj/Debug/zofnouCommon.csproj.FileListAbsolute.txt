@@ -1,8 +1,0 @@
-D:\自空间\devops_test1\zofnouApi\zofnouCommon\bin\Debug\zofnouCommon.dll
-D:\自空间\devops_test1\zofnouApi\zofnouCommon\bin\Debug\zofnouCommon.pdb
-D:\自空间\devops_test1\zofnouApi\zofnouCommon\bin\Debug\log4net.dll
-D:\自空间\devops_test1\zofnouApi\zofnouCommon\bin\Debug\log4net.xml
-D:\自空间\devops_test1\zofnouApi\zofnouCommon\obj\Debug\zofnouCommon.csproj.CoreCompileInputs.cache
-D:\自空间\devops_test1\zofnouApi\zofnouCommon\obj\Debug\zofnouCommon.csproj.CopyComplete
-D:\自空间\devops_test1\zofnouApi\zofnouCommon\obj\Debug\zofnouCommon.dll
-D:\自空间\devops_test1\zofnouApi\zofnouCommon\obj\Debug\zofnouCommon.pdb
