@@ -6,3 +6,5 @@
 /zofnouApi/zofnouApi/obj/Debug
 /zofnouApi/.vs/zofnouApi/v15
 /zofnouApi/.vs/config
+bin
+/zofnouApi/zofnouCommon/obj
